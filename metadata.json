@@ -1,0 +1,6 @@
+{
+  "name": "迷霧三線：戰術要塞",
+  "description": "結合三路塔防、戰爭迷霧、科技樹升級與隨機戰場突發事件的低手速高策略即時戰略遊戲。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
